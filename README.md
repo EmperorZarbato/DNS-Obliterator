@@ -1,2 +1,4 @@
 # DNS-Obliterator
-A DoS tool for Windows
+A DoS tool for Windows.
+
+**OFC I'M NOT UPLOADING THIS, IF YOU WANNA SEE HOW IT WORKS YOU CAN SEND ME A MESSAGE LOL**
